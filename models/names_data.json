@@ -1,0 +1,18 @@
+{
+    "ATL": "Atlanta Hartsfield International Airport",
+    "BOS": "Boston, Logan International Airport",
+    "CLT": "Charlotte/Douglas International Airport",
+    "ORD": "Chicago, O'Hare International Airport Airport",
+    "DFW": "Dallas/Fort Worth International Airport",
+    "DEN": "Denver International Airport",
+    "DTW": "Detroit Metropolitan Airport",
+    "IAD": "Washington, Dulles International Airport",
+    "LAX": "Los Angeles International Airport",
+    "MIA": "Miami International Airport",
+    "JFK": "New York, John F. Kennedy International Airport",
+    "LGA": "New York, La Guardia Airport",
+    "EWR": "Newark International Airport",
+    "OAK": "Oakland",
+    "PHL": "Philadelphia",
+    "SFO": "San Francisco International Airport"
+}

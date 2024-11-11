@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "streamlit-app"
+version = "0.1.0"
+description = "Streamlit app repository for Group 9, Advanced Machine Learning Applications course, Spring 2024, University of Technology Sydney."
+authors = ["nicnl31 <nhanlt.31@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "1.38.0"
+scikit-learn = "1.5.1"
+pandas = "2.2.2"
+joblib = "1.4.2"
+altair = "5.4.1"
+tensorflow = "2.18.0"
+xgboost = "2.1.2"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
