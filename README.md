@@ -3,6 +3,8 @@
 ## Introduction
 This repository stores the source code for an airfare predictor web app, written in Python using the Streamlit framework.
 
+The app is hosted on Streamlit. You may visit using this URL: https://airfare-wizard.streamlit.app/
+
 ## Project Structure
 
 ```
